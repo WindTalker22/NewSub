@@ -196,3 +196,4 @@ Stretch Questions
     *, *:before, *:after {
       box-sizing: inherit;
     }
+This was my second attempt
